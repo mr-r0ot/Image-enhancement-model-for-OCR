@@ -25,15 +25,24 @@ Feed it a photo. Get back a clean, high-contrast, deskewed document image ready 
 ---
 
 ## Before / After
+*note:* It is not dependent on language!
 
 ### Persian Handwritten Physics Notes
 
 | Input — raw phone photo | Output — OCR-ready |
 |:-:|:-:|
 | ![Input](test1_normal.jpg) | ![Output](test1_out5.png) |
-| Tilted, uneven lighting, low contrast | Deskewed, white background, sharp text |
+| Large file size. Blurry. Poor quality. Excess pixels; high noise. | good for computers :) |
 
-### English Printed Document
+### Some Printed Document (d
+
+| Input | Output |
+|:-:|:-:|
+| ![Input](befor.jpg) | ![Output](after.png) |
+| Low contrast, shadow gradient | Clean, high-contrast, print-ready |
+
+
+### Some Printed Document (d
 
 | Input | Output |
 |:-:|:-:|

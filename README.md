@@ -34,7 +34,7 @@ Feed it a photo. Get back a clean, high-contrast, deskewed document image ready 
 | ![Input](test1_normal.jpg) | ![Output](test1_out5.png) |
 | Large file size. Blurry. Poor quality. Excess pixels; high noise. | good for computers :) |
 
-### Some Printed Document (d
+### deeper
 
 | Input | Output |
 |:-:|:-:|
@@ -42,7 +42,7 @@ Feed it a photo. Get back a clean, high-contrast, deskewed document image ready 
 | Low contrast, shadow gradient | Clean, high-contrast, print-ready |
 
 
-### Some Printed Document (d
+### Some Printed Document
 
 | Input | Output |
 |:-:|:-:|

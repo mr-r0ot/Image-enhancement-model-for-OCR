@@ -32,14 +32,14 @@ Feed it a photo. Get back a clean, high-contrast, deskewed document image ready 
 | Input — raw phone photo | Output — OCR-ready |
 |:-:|:-:|
 | ![Input](test1_normal.jpg) | ![Output](test1_out5.png) |
-| Large file size. Blurry. Poor quality. Excess pixels; high noise. | good for computers :) |
+| Tilted, uneven lighting, low contrast | Deskewed, white background, sharp text |
 
 ### deeper
 
 | Input | Output |
 |:-:|:-:|
 | ![Input](befor.jpg) | ![Output](after.png) |
-| Low contrast, shadow gradient | Clean, high-contrast, print-ready |
+| Large file size. Blurry. Poor quality. Excess pixels; high noise. | good for computers :) |
 
 
 ### Some Printed Document
